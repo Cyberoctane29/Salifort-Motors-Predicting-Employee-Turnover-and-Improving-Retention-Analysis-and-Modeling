@@ -160,6 +160,11 @@ Two rounds of modeling were conducted to address potential data leakage:
 
 This two-round approach validated that our final models make predictions based on stable, non-leaky features while maintaining strong performance.
 
+### **Key Workflow Decisions**  
+- Addressed **data leakage** by removing post-attrition indicators  
+- Prioritized **recall** to minimize false negatives (missed at-risk employees)  
+- Used **stratified sampling** to maintain class balance in train/test splits
+- 
 ### **Power BI Analytics Report**
 
 To translate analytical findings into a stakeholder-friendly format, a multi-page Power BI analytics report was developed as part of the Execute stage, combining workforce analytics, predictive modeling insights, and strategic retention recommendations into an executive-focused reporting experience.
@@ -169,11 +174,6 @@ To translate analytical findings into a stakeholder-friendly format, a multi-pag
 - **Predictive Attrition Modeling**: Presented model performance metrics, confusion matrix results, feature importance analysis, and champion model selection
 - **Strategic Retention Recommendations**: Converted analytical insights into actionable retention initiatives, high-risk employee profiles, and expected business outcomes
 - **Interactive Exploration**: Incorporated slicers, drill-down capabilities, and contextual tooltips to support stakeholder decision-making
-
-### **Key Workflow Decisions**  
-- Addressed **data leakage** by removing post-attrition indicators  
-- Prioritized **recall** to minimize false negatives (missed at-risk employees)  
-- Used **stratified sampling** to maintain class balance in train/test splits  
 
 ## **Key Insights**  
 
