@@ -1,6 +1,40 @@
-# **Salifort Motors - Predicting Employee Turnover and Improving Retention: Analysis and Modeling**  
+# **Salifort Motors - Predicting Employee Turnover and Improving Retention: Analysis and Modeling** 
+
+## Overview
 
 This project explores how employee-related factors such as workload, satisfaction, tenure, and promotions influence the likelihood of employee attrition at Salifort Motors, a leading alternative energy vehicle manufacturer, using machine learning in Python. By analyzing relationships between these factors and attrition outcomes, I built predictive models including logistic regression, decision trees, and random forests to identify employees at risk of leaving and support proactive HR interventions. The goal is to provide data-driven insights that enhance retention strategies and reduce attrition costs. The project leverages Python libraries like pandas, scikit-learn, and matplotlib for data analysis, predictive modeling, and visualization.
+
+To complement the machine learning analysis, an interactive multi-page Power BI report was developed to translate analytical findings into business-focused insights. The report highlights workforce trends, attrition drivers, predictive model outcomes, and strategic retention recommendations, enabling stakeholders to explore key factors influencing employee turnover through an executive-friendly reporting experience.
+
+## Quick Access
+
+* 📓 [Complete Salifort Case Study Notebook (Kaggle)](https://www.kaggle.com/code/saswatsethda/salifort-motors-turnover-analysis-modeling)
+* 💼 [Power BI Report - Project Drive Folder](https://drive.google.com/drive/u/0/folders/1DEjrbfRhnl22y0DkO1Z8WBTvS-y3qaha)
+* 📄 [Power BI Report PDF](https://drive.google.com/file/d/1pZsrBrMrqKJROp-xnPlSkxssoF-L2RxD/view)
+* 🎥 [Power BI Report Walkthrough Video](https://drive.google.com/file/d/1n9eaMq7C7f2NH5UqNA8C02cofS7pPE7k/view)
+* 📊 [Power BI Report File (.pbix)](https://drive.google.com/file/d/1YpryovAppNqSoeSxRZeeUgi_K3LoDh9V/view)
+
+## What’s Included
+
+* **Complete Project Notebook (.ipynb)**: Consolidated end-to-end Salifort Motors case study covering the full PACE workflow, including business understanding, data cleaning, exploratory data analysis, statistical investigation, machine learning modeling, model evaluation, and retention recommendations.
+
+* **Project Parts Notebooks (.ipynb)**: Two separate notebooks organized by the PACE framework:
+  * **Part 1 – Plan & Analyze**: Stakeholder alignment, data preparation, data validation, and exploratory data analysis.
+  * **Part 2 – Construct & Execute**: Predictive modeling, model evaluation, champion model selection, and reporting deliverables.
+
+* **Trained Machine Learning Models (.pickle)**: Saved Logistic Regression, Decision Tree, and Random Forest models developed throughout the project for reproducibility and future deployment.
+
+* **Supporting Data Files (.xlsx)**: Processed datasets and supporting files used for analysis, validation, reporting, and dashboard development.
+
+* **PACE Framework Documentation (.pdf)**: Project proposal, executive summary, and stage-specific PACE documents covering the Plan, Analyze, Construct, and Execute phases of the project.
+
+* **Power BI Analytics Report File (.pbix)**: Interactive four-page Power BI analytics report exploring workforce trends, attrition drivers, predictive modeling outcomes, and strategic retention recommendations.
+
+* **Power BI Report PDF Exports**: Individual page exports of the complete Power BI report for offline viewing and presentation purposes.
+
+* **Power BI Report Walkthrough Video**: Demonstration of report navigation, interactivity, analytical findings, predictive model insights, and business recommendations.
+
+* **Power BI Report Assets**: Supporting report screenshots, PDFs, visual assets, and presentation resources used throughout the reporting and documentation process.
 
 ## **Project Navigation: Two-Part Structure**  
 
@@ -13,7 +47,7 @@ For clarity and easier navigation on GitHub, the project is divided into **two l
 <div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/VYJfmS7j/stages-part1.png" alt="Phase4_6"> </div>
 <br><br>
 
-- **[Part 2 – Construct and Execute Stages](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Project%20Parts/Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb):** This notebook transitions to **predictive modeling**, comparing logistic regression with tree-based models (decision trees and random forests) to select the best-performing solution for turnover prediction.  
+- **[Part 2 – Construct and Execute Stages](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Project%20Parts/Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb):** This notebook transitions to **predictive modeling**, comparing logistic regression with tree-based models (decision trees and random forests) to select the best-performing solution for turnover prediction. The Execute stage also includes the development of a multi-page Power BI report that translates analytical findings, model insights, and retention recommendations into an executive-friendly reporting experience.
 
   [View Part 2 Notebook](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Project%20Parts/Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb)  
 <br><br>
@@ -34,7 +68,8 @@ The **Salifort Motors Employee Attrition Analysis** project aims to:
 - **Assess Data Patterns & Risks**: Identify trends, outliers, and key predictors associated with increased attrition risk  
 - **Build Predictive Models**: Develop logistic regression, decision tree, and random forest models to predict which employees are likely to leave  
 - **Support Proactive HR Strategy**: Provide actionable, data-driven recommendations to reduce attrition rates and improve employee retention  
-- **Ensure Ethical, Bias-Aware Analysis**: Address data quality issues and avoid post-attrition information leakage to maintain fair, reliable insights 
+- **Ensure Ethical, Bias-Aware Analysis**: Address data quality issues and avoid post-attrition information leakage to maintain fair, reliable insights
+- **Develop Executive Reporting Solutions**: Design a multi-page Power BI report that translates analytical findings, predictive model insights, and retention recommendations into an interactive, stakeholder-friendly reporting experience
 
 ## **Dataset Structure**  
 
@@ -125,6 +160,16 @@ Two rounds of modeling were conducted to address potential data leakage:
 
 This two-round approach validated that our final models make predictions based on stable, non-leaky features while maintaining strong performance.
 
+### **Power BI Analytics Report**
+
+To translate analytical findings into a stakeholder-friendly format, a multi-page Power BI analytics report was developed as part of the Execute stage, combining workforce analytics, predictive modeling insights, and strategic retention recommendations into an executive-focused reporting experience.
+
+- **Executive Overview**: Summarized workforce composition, attrition trends, tenure patterns, salary distribution, and departmental performance
+- **Workload & Burnout Analysis**: Explored the relationship between project load, working hours, promotions, performance evaluations, and employee turnover
+- **Predictive Attrition Modeling**: Presented model performance metrics, confusion matrix results, feature importance analysis, and champion model selection
+- **Strategic Retention Recommendations**: Converted analytical insights into actionable retention initiatives, high-risk employee profiles, and expected business outcomes
+- **Interactive Exploration**: Incorporated slicers, drill-down capabilities, and contextual tooltips to support stakeholder decision-making
+
 ### **Key Workflow Decisions**  
 - Addressed **data leakage** by removing post-attrition indicators  
 - Prioritized **recall** to minimize false negatives (missed at-risk employees)  
@@ -146,7 +191,6 @@ This two-round approach validated that our final models make predictions based o
 | **Random Forest**   | **96%**  | **90%**          | **87%**             |  
 
 **Random Forest emerged as the champion model**, balancing high recall (minimizing false negatives) with strong precision.  
-
 ### **Top Attrition Drivers**  
 1. **High workload (`overworked`)**  
 2. **Low promotions (`promotion_last_5years`)**  
@@ -168,21 +212,85 @@ This two-round approach validated that our final models make predictions based o
 - **Strategic Visualization Suite**: Created intuitive dashboards showing:  
   - Departmental turnover hotspots  
   - Workload vs satisfaction tradeoffs  
-  - Tenure-based retention opportunities  
+  - Tenure-based retention opportunities
+- **Executive Power BI Analytics Report**:
+  - Developed a four-page interactive Power BI report covering workforce trends, attrition drivers, predictive modeling outcomes, and strategic retention recommendations
+  - Translated complex machine learning results into stakeholder-friendly insights through KPI cards, interactive visuals, model evaluation summaries, and business-focused reporting 
 - **Operational Readiness**: Designed model outputs to integrate directly with HRIS systems for real-time risk alerts  
 
 This end-to-end solution transforms raw employee data into strategic retention opportunities, enabling Salifort Motors to proactively address turnover risks while maintaining ethical AI standards. The combination of robust analytics and actionable business intelligence creates a new capability for data-driven workforce management.
+
+## **Power BI Analytics Report Overview**
+
+The Power BI analytics report was developed to translate exploratory analysis, predictive modeling results, and retention recommendations into an executive-friendly reporting experience.
+
+The report includes:
+
+- Executive Overview (Page 1)
+- Workload & Burnout Drivers (Page 2)
+- Predictive Attrition Modeling (Page 3)
+- Strategic Retention Recommendations (Page 4)
+
+The report combines workforce analytics, machine learning insights, interactive visualizations, and business-focused storytelling to support data-driven HR decision-making.
+
+### **Report Pages**
+
+#### **Executive Overview**
+
+<img width="3578" height="2078" alt="Salifort Executive Overview Page-1" src="https://github.com/user-attachments/assets/ba9e0308-9e8d-4d76-968f-0095103e69d0" />
+
+#### **Workload & Burnout Drivers**
+
+<img width="3578" height="2078" alt="Salifort Workload   Burnout Drivers Page-2" src="https://github.com/user-attachments/assets/e57c81f3-3d9d-47c1-8383-598bd95d0d2f" />
+
+#### **Predictive Attrition Modeling**
+
+<img width="3578" height="2078" alt="Salifort Predictive Attrition Modeling Page-3" src="https://github.com/user-attachments/assets/05b507c1-7162-4b8b-a634-14d74a4037f7" />
+
+#### **Strategic Retention Recommendations**
+
+<img width="3578" height="2078" alt="Salifort Strategic Retention Recommendations Page-4" src="https://github.com/user-attachments/assets/3a261b1c-85a8-4d95-8ebb-3f73b4665bf5" />
 
 ## **Future Work**  
 
 - **Address class imbalance** with techniques like SMOTE or class weighting.  
 - **Incorporate additional features** like manager feedback or team dynamics.  
-- **Deploy model as an HR dashboard** for real-time attrition risk alerts.  
+- **Operationalize the predictive model within HR systems** to enable automated employee risk scoring, monitoring, and proactive retention interventions.
 
-### **Tools & Technologies**  
-- **Python**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **Machine Learning**: Logistic Regression, Decision Trees, Random Forest  
-- **Model Evaluation**: Precision-Recall AUC, ROC AUC, F1-score  
+### **Tools & Technologies**
+- **Python**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+- **Business Intelligence**: Power BI, Power Query, DAX
+- **Machine Learning**: Logistic Regression, Decision Trees, Random Forest
+- **Model Evaluation**: Precision-Recall AUC, ROC AUC, F1-score, Confusion Matrix
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
 - **Workflow**: PACE (Plan, Analyze, Construct, Execute) framework
 
-This project equips **Salifort Motors** with actionable insights to **reduce turnover, improve employee satisfaction, and optimize retention strategies**. By proactively identifying at-risk employees, HR can intervene early, fostering a more stable and engaged workforce.  
+## Repository Structure
+
+```text
+├── Fit_models
+│   ├── hr_dt1.pickle
+│   ├── hr_dt2.pickle
+│   ├── hr_log_clf.pickle
+│   ├── hr_rf1.pickle
+│   └── hr_rf2.pickle
+├── Power BI Report Assets
+│   ├── Images - Salifort Motors Employee Attrition Analytics Report in Power BI
+│   ├── PDFs - Salifort Motors Employee Attrition Analytics Report in Power BI
+│   └── Supporting files
+├── Project Parts
+│   ├── Salifort_Motors_Turnover_Part1_Plan_and_Analyze_Includes_EDA.ipynb
+│   └── Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb
+├── PACE Strategy Documents
+│   ├── All Stages
+│   ├── Plan Stage
+│   ├── Analyze Stage
+│   ├── Construct Stage
+│   └── Execute Stage
+├── Power BI Report - Salifort Motors Employee Attrition Analytics Report.pbix
+├── Video - Power BI Report - Salifort Motors Employee Attrition Analytics Report.mp4
+├── Salifort_Motors_Predicting_Employee_Turnover_and_Improving_Retention.ipynb
+└── README.md
+```
+
+This project equips Salifort Motors with actionable insights to reduce turnover, improve employee satisfaction, and optimize retention strategies. By proactively identifying at-risk employees, HR can intervene early, fostering a more stable and engaged workforce. The accompanying Power BI analytics report further enhances decision-making by translating workforce trends, attrition drivers, predictive model outcomes, and retention recommendations into an accessible, executive-friendly reporting experience.
