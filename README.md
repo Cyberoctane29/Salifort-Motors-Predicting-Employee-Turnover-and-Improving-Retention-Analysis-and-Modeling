@@ -14,28 +14,6 @@ To complement the machine learning analysis, an interactive multi-page Power BI 
 * 🎥 [Power BI Report Walkthrough Video](https://drive.google.com/file/d/1n9eaMq7C7f2NH5UqNA8C02cofS7pPE7k/view)
 * 📊 [Power BI Report File (.pbix)](https://drive.google.com/file/d/1YpryovAppNqSoeSxRZeeUgi_K3LoDh9V/view)
 
-## What’s Included
-
-* **Complete Project Notebook (.ipynb)**: Consolidated end-to-end Salifort Motors case study covering the full PACE workflow, including business understanding, data cleaning, exploratory data analysis, statistical investigation, machine learning modeling, model evaluation, and retention recommendations.
-
-* **Project Parts Notebooks (.ipynb)**: Two separate notebooks organized by the PACE framework:
-  * **Part 1 – Plan & Analyze**: Stakeholder alignment, data preparation, data validation, and exploratory data analysis.
-  * **Part 2 – Construct & Execute**: Predictive modeling, model evaluation, champion model selection, and reporting deliverables.
-
-* **Trained Machine Learning Models (.pickle)**: Saved Logistic Regression, Decision Tree, and Random Forest models developed throughout the project for reproducibility and future deployment.
-
-* **Supporting Data Files (.xlsx)**: Processed datasets and supporting files used for analysis, validation, reporting, and dashboard development.
-
-* **PACE Framework Documentation (.pdf)**: Project proposal, executive summary, and stage-specific PACE documents covering the Plan, Analyze, Construct, and Execute phases of the project.
-
-* **Power BI Analytics Report File (.pbix)**: Interactive four-page Power BI analytics report exploring workforce trends, attrition drivers, predictive modeling outcomes, and strategic retention recommendations.
-
-* **Power BI Report PDF Exports**: Individual page exports of the complete Power BI report for offline viewing and presentation purposes.
-
-* **Power BI Report Walkthrough Video**: Demonstration of report navigation, interactivity, analytical findings, predictive model insights, and business recommendations.
-
-* **Power BI Report Assets**: Supporting report screenshots, PDFs, visual assets, and presentation resources used throughout the reporting and documentation process.
-
 ## **Project Navigation: Two-Part Structure**  
 
 For clarity and easier navigation on GitHub, the project is divided into **two logical parts**, allowing viewers to focus on either Exploratory Data Analysis or Modeling without the notebook becoming too lengthy or cumbersome.
@@ -59,6 +37,28 @@ For a complete and consolidated view of both parts in a single notebook, check o
  [View Kaggle Notebook](https://www.kaggle.com/code/saswatsethda/salifort-motors-employee-turnover-prediction)
 
 [View Github Notebook](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Salifort_Motors_Predicting_Employee_Turnover_and_Improving_Retention.ipynb)
+
+## What’s Included
+
+* **Complete Project Notebook (.ipynb)**: Consolidated end-to-end Salifort Motors case study covering the full PACE workflow, including business understanding, data cleaning, exploratory data analysis, statistical investigation, machine learning modeling, model evaluation, and retention recommendations.
+
+* **Project Parts Notebooks (.ipynb)**: Two separate notebooks organized by the PACE framework:
+  * **Part 1 – Plan & Analyze**: Stakeholder alignment, data preparation, data validation, and exploratory data analysis.
+  * **Part 2 – Construct & Execute**: Predictive modeling, model evaluation, champion model selection, and reporting deliverables.
+
+* **Trained Machine Learning Models (.pickle)**: Saved Logistic Regression, Decision Tree, and Random Forest models developed throughout the project for reproducibility and future deployment.
+
+* **Supporting Data Files (.xlsx)**: Processed datasets and supporting files used for analysis, validation, reporting, and dashboard development.
+
+* **PACE Framework Documentation (.pdf)**: Project proposal, executive summary, and stage-specific PACE documents covering the Plan, Analyze, Construct, and Execute phases of the project.
+
+* **Power BI Analytics Report File (.pbix)**: Interactive four-page Power BI analytics report exploring workforce trends, attrition drivers, predictive modeling outcomes, and strategic retention recommendations.
+
+* **Power BI Report PDF Exports**: Individual page exports of the complete Power BI report for offline viewing and presentation purposes.
+
+* **Power BI Report Walkthrough Video**: Demonstration of report navigation, interactivity, analytical findings, predictive model insights, and business recommendations.
+
+* **Power BI Report Assets**: Supporting report screenshots, PDFs, visual assets, and presentation resources used throughout the reporting and documentation process.
 
 ## **Project Overview**
 
