@@ -237,19 +237,19 @@ The report combines workforce analytics, machine learning insights, interactive 
 
 #### **Executive Overview**
 
-<img width="3578" height="2078" alt="Salifort Executive Overview Page-1" src="https://github.com/user-attachments/assets/ba9e0308-9e8d-4d76-968f-0095103e69d0" />
+<img width="3578" height="2078" alt="Salifort Executive Overview Page-1" src="https://github.com/user-attachments/assets/273ac4b2-2d32-4844-8edd-eed1980105eb" />
 
 #### **Workload & Burnout Drivers**
 
-<img width="3578" height="2078" alt="Salifort Workload   Burnout Drivers Page-2" src="https://github.com/user-attachments/assets/e57c81f3-3d9d-47c1-8383-598bd95d0d2f" />
+<img width="3578" height="2078" alt="Salifort Workload   Burnout Drivers Page-2" src="https://github.com/user-attachments/assets/f922ff33-b90f-4889-9278-a8c97888f09c" />
 
 #### **Predictive Attrition Modeling**
 
-<img width="3578" height="2078" alt="Salifort Predictive Attrition Modeling Page-3" src="https://github.com/user-attachments/assets/05b507c1-7162-4b8b-a634-14d74a4037f7" />
+<img width="3578" height="2078" alt="Salifort Predictive Attrition Modeling Page-3" src="https://github.com/user-attachments/assets/ade910c6-4619-4b17-92ed-08c0644f53b2" />
 
 #### **Strategic Retention Recommendations**
 
-<img width="3578" height="2078" alt="Salifort Strategic Retention Recommendations Page-4" src="https://github.com/user-attachments/assets/3a261b1c-85a8-4d95-8ebb-3f73b4665bf5" />
+<img width="3578" height="2078" alt="Salifort Strategic Retention Recommendations Page-4" src="https://github.com/user-attachments/assets/b3b9c100-14ab-4875-a134-c7ab836ce80f" />
 
 ## **Future Work**  
 
