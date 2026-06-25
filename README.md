@@ -54,11 +54,13 @@ For a complete and consolidated view of both parts in a single notebook, check o
 
 * **Power BI Analytics Report File (.pbix)**: Interactive four-page Power BI analytics report exploring workforce trends, attrition drivers, predictive modeling outcomes, and strategic retention recommendations.
 
-* **Power BI Report PDF Exports**: Individual page exports of the complete Power BI report for offline viewing and presentation purposes.
+* **Complete Power BI Analytics Report (.pdf)**: Full four-page PDF export of the interactive Power BI report for convenient offline viewing, sharing, and presentation.
+
+* **Power BI Report Page Exports (.pdf)**: Individual PDF exports of each report page for documentation, presentation, and quick reference.
 
 * **Power BI Report Walkthrough Video**: Demonstration of report navigation, interactivity, analytical findings, predictive model insights, and business recommendations.
 
-* **Power BI Report Assets**: Supporting report screenshots, PDFs, visual assets, and presentation resources used throughout the reporting and documentation process.
+* **Power BI Report Assets**: Supporting report screenshots, visual assets, page exports, and additional resources used throughout the reporting and documentation process.
 
 ## **Project Overview**
 
@@ -281,13 +283,16 @@ The report combines workforce analytics, machine learning insights, interactive 
 ├── Project Parts
 │   ├── Salifort_Motors_Turnover_Part1_Plan_and_Analyze_Includes_EDA.ipynb
 │   └── Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb
-├── PACE Strategy Documents
-│   ├── All Stages
-│   ├── Plan Stage
-│   ├── Analyze Stage
-│   ├── Construct Stage
-│   └── Execute Stage
+├── Salifort Motors Predicting Employee Turnover and Improving Retention Documents
+│   ├── All Stages - PACE Strategy Document.pdf
+│   ├── Plan Stage - PACE Strategy Document.pdf
+│   ├── Analyze Stage - PACE Strategy Document.pdf
+│   ├── Construct Stage - PACE Strategy Document.pdf
+│   ├── Execute Stage - PACE Strategy Document.pdf
+│   ├── Salifort Motors Employee Turnover Prediction Project Proposal.pdf
+│   └── Salifort Project - Executive Summary.pdf
 ├── Power BI Report - Salifort Motors Employee Attrition Analytics Report.pbix
+├── Power BI Report PDF - Salifort Motors Employee Attrition Analytics Report.pdf
 ├── Video - Power BI Report - Salifort Motors Employee Attrition Analytics Report.mp4
 ├── Salifort_Motors_Predicting_Employee_Turnover_and_Improving_Retention.ipynb
 └── README.md
