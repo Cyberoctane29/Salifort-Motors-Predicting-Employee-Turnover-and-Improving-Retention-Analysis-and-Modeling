@@ -1,4 +1,4 @@
-# **Salifort Motors - Predicting Employee Turnover and Improving Retention: Analysis and Modeling** 
+# **Salifort Motors - Predicting Employee Turnover and Improving Retention: End-to-End Analysis and Modeling** 
 
 ## Overview
 
