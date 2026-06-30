@@ -48,7 +48,7 @@ For a complete and consolidated view of both parts in a single notebook, check o
 
 * **Trained Machine Learning Models (.pickle)**: Saved Logistic Regression, Decision Tree, and Random Forest models developed throughout the project for reproducibility and future deployment.
 
-* **Supporting Data Files (.xlsx)**: Processed datasets and supporting files used for analysis, validation, reporting, and dashboard development.
+* **Supporting Data Files (.xlsx)**: Processed datasets and supporting files used for analysis, validation, reporting, and report development.
 
 * **PACE Framework Documentation (.pdf)**: Project proposal, executive summary, and stage-specific PACE documents covering the Plan, Analyze, Construct, and Execute phases of the project.
 
@@ -211,7 +211,7 @@ To translate analytical findings into a stakeholder-friendly format, a multi-pag
   - Addressed data leakage by removing post-attrition indicators  
   - Balanced model performance with interpretability for HR stakeholders  
   - Established protocols for fair application of predictive insights  
-- **Strategic Visualization Suite**: Created intuitive dashboards showing:  
+- **Strategic Visualization Suite**: Created intuitive report pages showing:  
   - Departmental turnover hotspots  
   - Workload vs satisfaction tradeoffs  
   - Tenure-based retention opportunities
