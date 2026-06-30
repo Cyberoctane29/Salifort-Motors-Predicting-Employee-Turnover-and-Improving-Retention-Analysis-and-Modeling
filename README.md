@@ -293,7 +293,7 @@ The report combines workforce analytics, machine learning insights, interactive 
 │   └── Salifort Project - Executive Summary.pdf
 ├── Power BI Report - Salifort Motors Employee Attrition Analytics Report.pbix
 ├── Power BI Report PDF - Salifort Motors Employee Attrition Analytics Report.pdf
-├── Video - Power BI Report - Salifort Motors Employee Attrition Analytics Report.mp4
+├── Video - Power BI Report - Salifort Motors Employee Attrition Analytics Report - Full User Interaction Demo.mp4
 ├── Salifort_Motors_Predicting_Employee_Turnover_and_Improving_Retention.ipynb
 └── README.md
 ```
